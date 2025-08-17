@@ -15,11 +15,11 @@ Objective: Accurately predict how users would rate unseen movies and recommend t
 Approach: Collaborative Filtering using SVD, which leverages patterns in the existing user-movie ratings matrix to estimate preferences.
 
 
-Key Features
-Data pre-processing and visualization to explore ratings and movie genres.
+Key Features:
+1. Data pre-processing and visualization to explore ratings and movie genres.
 
-SVD-based algorithm implementation using scikit-surprise.
+2. SVD-based algorithm implementation using scikit-surprise.
 
-Prediction of user ratings for movies not previously rated.
+3. Prediction of user ratings for movies not previously rated.
 
-Option to recommend top movies tailored to each user’s preference profile.
+4. Option to recommend top movies tailored to each user’s preference profile.
